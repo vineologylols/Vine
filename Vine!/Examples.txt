@@ -1,0 +1,26 @@
+function print()
+      print(function(print("function print"))
+end
+
+function print(output)
+      output(print(function(print(output))
+end
+
+function read()
+       read(function(read(args)
+end
+
+while true do
+      function while(true)
+             workspace:getfunction(read)
+	     workspace:getfunction(print)
+	     
+	     function  collectfunction(true)
+                   workspace:getfunction(true, collectfunction)
+	     end
+      end
+end
+
+if collectfunction == true then
+       function while(false)
+end
